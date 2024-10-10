@@ -466,7 +466,7 @@ footer {
     line-height: var(--badge-line-height, 0);
     font-weight: 600;
     text-align: center;
-    color: var(--badge-text-color, #fff);
+    color: var(--badge-text-color, $wite);
     background-color: var(--badge-background-color, var(--theme-palette-color-1));
 }
 .out-of-stock-badge {
